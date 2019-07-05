@@ -1,0 +1,2 @@
+# StockMonitoringSystem
+simple testing application
